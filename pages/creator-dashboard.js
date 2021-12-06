@@ -57,6 +57,7 @@ export default function CreatorDashboard() {
         <h2 className="text-2xl py-2">Items Created</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4">
           {
+            // NFT card UI
             nfts.map((nft, i) => (
               <div key={i} className="border shadow rounded-xl overflow-hidden">
                 <img src={nft.image} className="rounded" />
