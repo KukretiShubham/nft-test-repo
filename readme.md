@@ -12,12 +12,12 @@ To Compile all the artifacts
 Contracts are deployed on mumbai testnets so setup metamask accordingly
 metmask
 
-Go to metamask settings > add network > 
-NetworkName: 	Mumbai
-chainId:	80001
-Gas Token:	MATIC Token
-Rpc url: https://matic-mumbai.chainstacklabs.com
-blockscan: https://mumbai.polygonscan.com/
+- Go to metamask settings > add network > 
+- NetworkName: 	Mumbai
+- chainId:	80001
+- Gas Token:	MATIC Token
+- Rpc url: https://matic-mumbai.chainstacklabs.com
+- blockscan: https://mumbai.polygonscan.com/
 
 To mint NFT you need test matic 
-Take them from : https://faucet.polygon.technology/
+- Take them from : https://faucet.polygon.technology/
