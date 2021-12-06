@@ -1,5 +1,7 @@
 Contracts are already deployed, Don't deploy again. 
 
+Install all dependencies
+`npm install`
 To test locally first we need all the artifacts from the address so
 To Compile all the artifacts
 1. `npx hardhat compile`
